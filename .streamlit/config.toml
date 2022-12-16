@@ -1,0 +1,17 @@
+[theme]
+
+#primary color
+
+primaryColor = "#E694FF"
+
+#background color
+backgroundColor = "#00172B"
+
+#secondary background color sidebar
+secondaryBackgroundColor = "#0083B8"
+
+#color used for almost all text
+textColor = "#FFF"
+
+#font family
+font = "sans serif"
