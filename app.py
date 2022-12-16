@@ -16,7 +16,7 @@ rfc = pickle.load(open("rfc.pkl","rb"))
 
 #stemming
 ps = PorterStemmer()
-
+stopwords.words('english')
 def transform_text(text):
     text = text.lower()
     text = nltk.word_tokenize(text)
